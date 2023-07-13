@@ -53,3 +53,12 @@ button:hover{
 li,p,.span{
     color: #E6EDF3;
 }
+
+@media(max-width:480px){
+    body{
+        padding-right: 10px;
+    }
+    textarea{
+        margin-left: 50px !important;
+    }
+}
